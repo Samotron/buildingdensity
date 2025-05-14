@@ -1,0 +1,13 @@
+[project]
+name = "buildingdensity"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckdb>=1.2.2",
+    "geopandas>=0.14.0",
+    "matplotlib>=3.8.0",
+    "pyarrow>=20.0.0",
+    "shapely>=2.0.0",
+]
